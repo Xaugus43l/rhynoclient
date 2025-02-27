@@ -1,0 +1,29 @@
+{
+  "ballPresets": [
+    {
+      "id": "default",
+      "colorThreshold": { "r": 240, "g": 240, "b": 240 },
+      "uniformityThreshold": 0.9
+    },
+    {
+      "id": "smallWhite",
+      "colorThreshold": { "r": 245, "g": 245, "b": 245 },
+      "uniformityThreshold": 0.95
+    },
+    {
+      "id": "largeGray",
+      "colorThreshold": { "r": 200, "g": 200, "b": 200 },
+      "uniformityThreshold": 0.85
+    },
+    {
+      "id": "yellow",
+      "colorThreshold": { "r": 255, "g": 204, "b": 0 },
+      "uniformityThreshold": 0.9
+    },
+    {
+      "id": "teal",
+      "colorThreshold": { "r": 56, "g": 219, "b": 150 },
+      "uniformityThreshold": 0.9
+    }
+  ]
+}
